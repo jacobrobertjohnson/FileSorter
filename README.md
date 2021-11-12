@@ -1,6 +1,6 @@
 # FileSorter
 ## Background
-This summer, I finally went through the box of random PC parts that's been filling up since high school. Among those parts were three or four hard drives containing nearly 20 years' worth of family photos. Each drive's photos duplicated a subset of the others, with most of them poorly organized and scattered across multiple user profiles.
+This summer, I finally went through my box of random PC parts that's been filling up since high school. Among those parts were three or four hard drives containing nearly 20 years' worth of family photos. Each drive's photos duplicated a subset of the others, with most of them poorly organized and scattered across multiple user profiles.
 
 The purpose of this project was to make some sense out of that mess in three ways:
 
@@ -38,6 +38,8 @@ EXIF data is used to determine the date & time a photo was taken. If the [`Prope
 
 ## Logging
 Every FileSorter run creates a timestamped log file under `{{FileSorterExePath}}\Logs\`:
+
+![image](https://user-images.githubusercontent.com/75222785/141515469-4a80dd45-fdfc-461e-bf03-ccd87377bfde.png)
 
 ![image](https://user-images.githubusercontent.com/75222785/141514018-8b5070f5-a54f-4c89-8586-b8d5a059af18.png)
 
